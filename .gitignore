@@ -1,0 +1,15 @@
+# Maven build output
+target/
+
+# Compiled class files
+*.class
+
+# NetBeans
+nbproject/private/
+build/
+dist/
+
+# IDE
+.idea/
+*.iml
+.vscode/
